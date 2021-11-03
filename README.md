@@ -18,5 +18,5 @@
 [//]: # (These are reference links used in the body of this note.)
 [linkedin-image]: https://img.shields.io/badge/linkedin-@lucasrochacc-blue.svg
 [linkedin-url]: https://linkedin.com/in/lucasrochacc
-[email-image]: https://img.shields.io/badge/email-@lucascosmorocha-red.svg
+[email-image]: https://img.shields.io/badge/email-lucascosmorocha@gmail.com-red.svg
 [email-url]: mailto:lucascosmorocha@gmail.com
