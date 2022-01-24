@@ -6,7 +6,7 @@
 
 - 👨‍💻 Sou desenvolvedor backend. Minha principal stack é Node.js | TypeScript | JavaScript.
 - 🤖 Sou fã de sistemas embarcados, e gosto bastante de desenvolver projetos utilizando Arduino e utilizando placas ESP8266 (ESP01, ESP32).
-- 🔭 Gosto basante de tecnologias backend, então venho estudando .NET (C#) e SpringBoot (Java) também.
+- 🔭 Gosto basante de tecnologias backend, então venho estudando Golang, .NET (C#) e SpringBoot (Java) também.
 - 🌱 Prendendo um dia ser um desenvolvedor mais completo, então tenho estudado algumas tecnologias de frontend (Angular, React) e também tecnologias de desenvolvimento de aplicativos (Android, Flutter). Pretendo o quanto antes subir alguns dos meus projetos aqui.
 
 <div align="center" style="display: inline_block">
